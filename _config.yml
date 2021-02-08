@@ -20,47 +20,20 @@ linkedin_username: kp154
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 
 # About Section
 # about_title: About Me
 about_profile_image: images/peru.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Software Engineer in Search. Love to work on solving backend challenges with respect to distributed systems and make applications highly perfomant and available.
-
-  I am most skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>
+  I'm a Software Engineer in Search.
+  Love to work on solving backend challenges with respect to distributed systems and make applications highly performant and highly available.
+  I write code that is crucial to over 150,000 companies and I take pride in my work that helps agents discover and solve pain points in their customers.
+  I am most skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>,<mark>MySQl</mark>,<mark>Redis</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -71,27 +44,68 @@ content:
         sub_title: Software Engineer, Search
         caption: November 2017 - Present
         quote: >
-          My main focus is reliability and availability of our services and make things discoverable.
+          My main focus here is to make things discoverable, and reliability and availability of our services.
         description: | # this will include new lines to allow paragraphs
-            Working towards building a streaming platform with Kafka and Elasticsearch.
+            Building a streaming platform with MySQL, Kafka and Elasticsearch.
+      - layout: left
+        title: Verizon
+        link: verizon.com
+        # link_text: verizon.com
+        sub_title: Software Engineer, Search
+        caption: June 2016 - Nov 2017
+        quote: >
+          Built an ETL pipeline to make Video contents discoverable.
+        description: | # this will include new lines to allow paragraphs
+          Building a pipeline with MongoDB and Elasticsearch.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Northeastern University
+        title: Northeastern University, Boston
         caption: 2014 - 2016
         sub_title: MS Computer Science
         quote: >
           Took courses like DataMining in CyberSpace, Software Design Paradigm, Network Security etc.
         description: | # this will include new lines to allow paragraphs
           Took courses like DataMining in CyberSpace, Software Design Paradigm, Network Security etc.
+      - layout: left
+        title: B V Bhoomaraddi College of Engineering
+        caption: 2010 - 2014
+        sub_title: BE Computer Science
+        quote: >
+          Took courses like Datastructures and Algorithms, C++, Java, DBMS, Parallel Programming.
+        description: | # this will include new lines to allow paragraphs
+          Worked on cool projects like
+          Robot that moves based on facial gestures,
+          Website for a local computer shop,
+          Google doodle
+          An Online game (https://guessthecup.appspot.com/)
+
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Built a basic Search Engine
+        link: github.com/kiranprakash154/SearchEngine
+        # link_text: Search Engine
+        additional_links:
+          - title:  kiranprakash154/SearchEngine
+            icon: fab fa-github
+            url: github.com/kiranprakash154/SearchEngine
+        quote: >
+          Worked on this hobby project to gets my hands dirty with Java, Datastructures, Clustering and Data Retrieval concepts.
+        description: | # this will include new lines to allow paragraphs
+          Worked on this hobby project to get a practical understanding of how a basic search engine works. This gave me a hands on experience on the above mentioned topics.
+
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in software engineering and data discovery, some of my other interests and hobbies are:
       - Cricket
+      - Personal Finance, Blockchain, Investing.
       - Reading technical books - Designing Data Intensive Applications, Elasticsearch fundamentals
       - Reading court room drama novels. My favorite authors - Sidney Sheldon, JK Rowling, Erle Stanley Gardner(author of Perry Mason novels)
 
