@@ -9,7 +9,6 @@ version: 2
 name: Kiran Prakash
 title: Software Engineer, Search
 email: kiranprakash154@icloud.com
-website: https://kiranprakash154.github.io/whoiskiran/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -29,8 +28,11 @@ additional_links:
 about_profile_image: images/peru.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a Software Engineer in Search.
+
   Love to work on solving backend challenges with respect to distributed systems and make applications highly performant and highly available.
+
   I write code that is crucial to over 150,000 companies and I take pride in my work that helps agents discover and solve pain points in their customers.
+
   I am most skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>,<mark>MySQl</mark>,<mark>Redis</mark>
 
 content:
@@ -47,6 +49,8 @@ content:
           My main focus here is to make things discoverable, and reliability and availability of our services.
         description: | # this will include new lines to allow paragraphs
             Building a streaming platform with MySQL, Kafka and Elasticsearch.
+
+            I mostly code here in Ruby, Scala and Java
       - layout: left
         title: Verizon
         link: verizon.com
@@ -56,33 +60,7 @@ content:
         quote: >
           Built an ETL pipeline to make Video contents discoverable.
         description: | # this will include new lines to allow paragraphs
-          Building a pipeline with MongoDB and Elasticsearch.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Northeastern University, Boston
-        caption: 2014 - 2016
-        sub_title: MS Computer Science
-        quote: >
-          Took courses like DataMining in CyberSpace, Software Design Paradigm, Network Security etc.
-        description: | # this will include new lines to allow paragraphs
-          Took courses like DataMining in CyberSpace, Software Design Paradigm, Network Security etc.
-      - layout: left
-        title: B V Bhoomaraddi College of Engineering
-        caption: 2010 - 2014
-        sub_title: BE Computer Science
-        quote: >
-          Took courses like Datastructures and Algorithms, C++, Java, DBMS, Parallel Programming.
-        description: | # this will include new lines to allow paragraphs
-          Worked on cool projects like
-          Robot that moves based on facial gestures,
-          Website for a local computer shop,
-          Google doodle
-          An Online game (https://guessthecup.appspot.com/)
-
-
+          Built a pipeline using MongoDB, Elasticsearch and coded in Scala and Java
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -98,6 +76,30 @@ content:
           Worked on this hobby project to gets my hands dirty with Java, Datastructures, Clustering and Data Retrieval concepts.
         description: | # this will include new lines to allow paragraphs
           Worked on this hobby project to get a practical understanding of how a basic search engine works. This gave me a hands on experience on the above mentioned topics.
+
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Northeastern University, Boston
+        caption: 2014 - 2016
+        sub_title: MS Computer Science
+        description: | # this will include new lines to allow paragraphs
+          Took courses like DataMining in CyberSpace, Software Design Paradigm, Network Security etc.
+      - layout: left
+        title: B V Bhoomaraddi College of Engineering
+        caption: 2010 - 2014
+        sub_title: BE Computer Science
+        quote: >
+          Took courses like Datastructures and Algorithms, C++, Java, DBMS, Parallel Programming.
+        description: | # this will include new lines to allow paragraphs
+          Worked on cool projects like
+          Robot that moves based on facial gestures,
+          Website for a local computer shop,
+          Google doodle
+          An Online game (https://guessthecup.appspot.com/)
 
 
   - title: A Little More About Me
