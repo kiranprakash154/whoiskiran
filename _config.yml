@@ -75,7 +75,9 @@ content:
         quote: >
           Worked on this hobby project to gets my hands dirty with Java, Datastructures, Clustering and Data Retrieval concepts.
         description: | # this will include new lines to allow paragraphs
-          Worked on this hobby project to get a practical understanding of how a basic search engine works. This gave me a hands on experience on the above mentioned topics.
+          Worked on this hobby project to get a practical understanding of how a basic search engine works.
+          
+          This gave me a hands on experience on the above mentioned topics.
 
 
 
@@ -96,10 +98,10 @@ content:
           Took courses like Datastructures and Algorithms, C++, Java, DBMS, Parallel Programming.
         description: | # this will include new lines to allow paragraphs
           Worked on cool projects like
-          Robot that moves based on facial gestures,
-          Website for a local computer shop,
-          Google doodle
-          An Online game (https://guessthecup.appspot.com/)
+          - Robot that moves based on facial gestures,
+          - Website for a local computer shop,
+          - A Google doodle
+          - An Online game (https://guessthecup.appspot.com/)
 
 
   - title: A Little More About Me
