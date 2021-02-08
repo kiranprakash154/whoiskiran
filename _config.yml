@@ -6,28 +6,17 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Kiran Prakash
+title: Software Engineer, Search
+email: kiranprakash154@icloud.com
+website: https://kiranprakash154.github.io/whoiskiran/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username:  kiranprakash154
+linkedin_username: kp154
 
 # Additional icon links
 additional_links:
@@ -46,11 +35,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/peru.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I'm a Software Engineer in Search. Love to work on solving backend challenges with respect to distributed systems and make applications highly perfomant and available.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>
 
 content:
   - title: Projects # Title for the section
@@ -76,41 +65,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        title: Zendesk
+        link: zendesk.com
+        # link_text: zendesk.com
+        sub_title: Software Engineer, Search
         caption: November 2017 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          My main focus is reliability and availability of our services and make things discoverable.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Working towards building a streaming platform with Kafka and Elasticsearch.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Northeastern University
+        caption: 2014 - 2016
+        sub_title: MS Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Took courses like DataMining in CyberSpace, Software Design Paradigm, Network Security etc.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Took courses like DataMining in CyberSpace, Software Design Paradigm, Network Security etc.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Cricket
+      - Reading technical books - Designing Data Intensive Applications, Elasticsearch fundamentals
+      - Reading court room drama novels. My favorite authors - Sidney Sheldon, JK Rowling, Erle Stanley Gardner(author of Perry Mason novels)
 
 # Footer
 footer_show_references: true
