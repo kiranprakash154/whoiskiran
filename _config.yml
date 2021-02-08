@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I write code that is crucial to over 150,000 companies and I take pride in my work that helps agents discover and solve pain points in their customers.
 
-  I am most skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>,<mark>MySQl</mark>,<mark>Redis</mark>
+  I am most skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>,<mark>MySQL</mark>,<mark>Redis</mark>
 
 content:
   - title: Experience # Title for the section
