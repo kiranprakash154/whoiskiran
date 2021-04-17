@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kiran Prakash
-title: Software Engineer, Search
+title: Senior Software Engineer, Search
 email: kiranprakash154@icloud.com
 
 # Dark Mode (true/false/never)
@@ -29,11 +29,11 @@ about_profile_image: images/peru.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a Software Engineer in Search.
 
-  Love to work on solving backend challenges with respect to distributed systems and make applications highly performant and highly available.
+  Love to work with distributed systems and make services highly performant and available.
 
-  I write code that is crucial to over 150,000 companies and I take pride in my work that helps agents discover and solve pain points in their customers.
+  I write code that is crucial to over 150_000 companies and I take pride in my work that helps millions of agents discover tickets and solve their customer's issues.
 
-  I am most skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>,<mark>MySQL</mark>,<mark>Redis</mark>
+  I am mostly skilled in: <mark>Elasticsearch</mark>,<mark>Kafka</mark>,<mark>Java</mark>,<mark>Ruby on Rails</mark>,<mark>MySQL</mark>,<mark>Redis</mark>
 
 content:
   - title: Experience # Title for the section
@@ -43,14 +43,16 @@ content:
         title: Zendesk
         link: zendesk.com
         # link_text: zendesk.com
-        sub_title: Software Engineer, Search
+        sub_title: Senior Software Engineer, Search
         caption: November 2017 - Present
         quote: >
-          My main focus here is to make things discoverable, and reliability and availability of our services.
+          My main focus here is to build a new pipeline migrating away from MySQL and into Elasticsearch with Kafka as the event bus.
         description: | # this will include new lines to allow paragraphs
             Building a streaming platform with MySQL, Kafka and Elasticsearch.
+            Designed the Elasticsearch cluster switching process and Elasticsearch schema.
 
-            I mostly code here in Ruby, Scala and Java
+
+            I mostly code here in Ruby and Scala
       - layout: left
         title: Verizon
         link: verizon.com
@@ -76,7 +78,7 @@ content:
           Worked on this hobby project to gets my hands dirty with Java, Datastructures, Clustering and Data Retrieval concepts.
         description: | # this will include new lines to allow paragraphs
           Worked on this hobby project to get a practical understanding of how a basic search engine works.
-          
+
           This gave me a hands on experience on the above mentioned topics.
 
 
